@@ -5,9 +5,8 @@
   </a>
 </p>
 
-<p align="center" >
-     <img width="900" heigth="900" src="https://user-images.githubusercontent.com/107725949/267935516-7878f81b-5e22-47f7-b7fa-20877d4a276d.png">
-</p>
+### [El Inicio:](https://icastroo.github.io/Encriptador-de-texto-Alura-Challenges-Oracle-ONE/)
+![image](https://user-images.githubusercontent.com/107725949/267935516-7878f81b-5e22-47f7-b7fa-20877d4a276d.png)
 
 ## 💡 Descripción
 El desafío es crear una página web donde los usuarios puedan ingresar texto y luego optar por encriptarlo o desencriptarlo. El objetivo es aplicar los conocimientos adquiridos en un curso de programación para principiantes y ponerlos en práctica en la construcción de esta funcionalidad de encriptación y desencriptación de texto.
